@@ -1,4 +1,4 @@
-# Scenario 06 — Blackjack vs Dealer
+# Scenario 18 — Blackjack vs Dealer
 
 A terminal blackjack game with a deck, player/dealer hands, chips, and multiple rounds.
 
